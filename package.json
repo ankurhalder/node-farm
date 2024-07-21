@@ -1,0 +1,30 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Learning Node Farm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankurhalder/node-farm.git"
+  },
+  "keywords": [
+    "Ankur",
+    "Halder",
+    "node-farm"
+  ],
+  "author": "Ankur Halder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ankurhalder/node-farm/issues"
+  },
+  "homepage": "https://github.com/ankurhalder/node-farm#readme",
+  "dependencies": {
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
